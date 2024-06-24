@@ -1,0 +1,28 @@
+Cedula: 2321312423432
+Nombres Completos: jeimy alexandra torres galvan
+Fecha de nacimiento: 16 - 12 - 2005
+Peso: 46.0
+Estatura: 154.0
+Alergias: frio
+----------------------------------
+Cedula: 324314
+Nombres Completos: alfredo becerra
+Fecha de nacimiento: 25 octubre 2005
+Peso: 4.0
+Estatura: 1.0
+Alergias: frio
+----------------------------------
+Cedula: 12341234
+Nombres Completos: marco abarca
+Fecha de nacimiento: 12 - 2 - 2005
+Peso: 45.0
+Estatura: 1.43
+Alergias: polvo
+----------------------------------
+Cedula: 123456789
+Nombres Completos: jeimy torres
+Fecha de nacimiento: 16 - 12 - 2005
+Peso: 46.0
+Estatura: 1.54
+Alergias: frio
+----------------------------------
